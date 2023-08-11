@@ -15,7 +15,7 @@ img {
     width: 100vw;
 }
 
-a#youtube {
+a#linkedin {
     display: block;
     background-color: #1883BB;
     color: white;
@@ -27,7 +27,7 @@ a#youtube {
 
 }
 
-a#youtube:hover {
+a#linkedin:hover {
     background-color: whitesmoke;
     color: rgba(0, 0, 0, 0.628);
 }
